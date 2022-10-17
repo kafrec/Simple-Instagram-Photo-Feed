@@ -1,11 +1,31 @@
+body{
+    background: rgb(228, 226, 226);
+}
+
+#titulo{
+    font-family: 'Anton', sans-serif;
+    font-size: 45px;
+    text-align: center;
+    background: white;
+}
+
 #div1{
     margin-left: 400px;
     margin-top: 50px;
     width: 500px;
+    background: white;
+    border-radius: 10px;
 }
 
 #div1de1{
     display: flex;
+    margin-left: 10px;
+    font-family: 'Anton', sans-serif;
+    font-size: 15px;
+}
+
+.indice1{
+    margin-left: 320px;
 }
 
 .imagen1{
@@ -13,6 +33,32 @@
     margin-bottom: 10px;
 }
 
-.indice1{
-    margin-left: 310px;
+#bajada1{
+    margin-left: 10px;
+    padding-bottom: 10px;
+    font-family: 'Arimo', sans-serif;
+}
+
+#div2{
+    margin-left: 400px;
+    margin-top: 50px;
+    width: 500px;
+    background: white;
+    border-radius: 10px;
+}
+
+#div3{
+    margin-left: 400px;
+    margin-top: 50px;
+    width: 500px;
+    background: white;
+    border-radius: 10px;
+}
+
+#div4{
+    margin-left: 400px;
+    margin-top: 50px;
+    width: 500px;
+    background: white;
+    border-radius: 10px;
 }
