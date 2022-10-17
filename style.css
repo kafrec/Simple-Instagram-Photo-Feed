@@ -9,9 +9,8 @@ body{
     background: white;
 }
 
-#div1{
-    margin-left: 400px;
-    margin-top: 50px;
+.div1{
+    margin: 50px auto;
     width: 500px;
     background: white;
     border-radius: 10px;
